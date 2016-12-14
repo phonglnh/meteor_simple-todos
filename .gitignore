@@ -15,3 +15,5 @@ node_modules/
 .idea/vcs.xml
 
 .idea/workspace.xml
+
+.idea/inspectionProfiles/profiles_settings.xml
